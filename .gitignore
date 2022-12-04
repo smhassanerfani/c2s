@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 .idea/
-data/*/*.tif
+data/*/*/*.tif
 data/example_houston_model_output.png
 data/model_output_houston_historical_water_area.csv
 
