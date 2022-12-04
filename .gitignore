@@ -4,8 +4,10 @@ __pycache__/
 *$py.class
 
 .idea/
-data/imagery
-data/label
+data/imagery/*
+data/label/*
+data/example_houston_model_output.png
+data/model_output_houston_historical_water_area.csv
 
 # C extensions
 *.so
