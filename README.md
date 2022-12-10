@@ -1,5 +1,3 @@
 # Cloud to Street
 
-## Infilteration
-Soil water movement (percolation) is the process of water flow from one point to another point within the soil.
-Infilteration and percolation plays
+This repo is for answering C2S "Take Home Test from Cloud to Street for Climate Data Scientist position." 
